@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a simple java program to get familiar with single dimensional arrays. It saves two lists of integers into arrays. Here they are the game scores. It then takes the index of each arrray and compares the. Here the program computes the highest scoring game, the winning precentage of the Texans array, and the highest score in the Texans array to get the highest score. 
+This is a simple java program to get familiar with single dimensional arrays. It saves two lists of integers into arrays. In this program they are the game scores. It then takes the index of each arrray and compares them. The program computes the highest scoring game, the winning precentage of the Texans array, and the highest score in the Texans array to get the highest score. 
 
 ### To Run
 
