@@ -1,9 +1,9 @@
 /*
  * @Title: TexansStatistics
- * @Purpose: To get familiar with single dimensional arrays
+ * @Purpose: Single dimensional arrays
  * @Author: Zamzow, Avery
- * @Date:4/3/15
- * @Version: 1.0
+ * @Date:12/4/19
+ * @Version: 2.0
  */
 import java.util.Scanner;
 public class TexansStatistics {
@@ -32,7 +32,7 @@ public class TexansStatistics {
 				win++;
 			}
 		}
-		System.out.println("Winning Percentage is :" + (100*((double)win/TexansScore.length)) + "%");
+		System.out.println("Winning Percentage is : " + (100*((double)win/TexansScore.length)) + "%");
 	 	 
 		int highest = TexansScore[0];
 		int gameNumber = 0;
